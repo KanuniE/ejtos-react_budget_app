@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.dropdown-toggle.btn.btn-primary {
+    background: lightgreen;
+}
+
+.dropdown-menu.show {
+    background: lightgreen;
+}
